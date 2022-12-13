@@ -11,5 +11,5 @@
         <maven.compiler.target>18</maven.compiler.target>
         <exec.mainClass>com.mycompany.employer.Employer</exec.mainClass>
     </properties>
-    <name>UTS_NO2_SI05A_3027</name>
+    <name>ProjectBank2</name>
 </project>
