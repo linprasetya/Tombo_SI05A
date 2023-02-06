@@ -4,3 +4,5 @@ tubes aplikasi "Tombo" kelas SI05A
 - Lintang Prasetya Wibawa (21103027)
 - Katherin Gracia Sibarani(21103093)
 - Ester Anastasya Sagala (21103106)
+
+note : file name dayday_tubes / database name db_tubes.sql
